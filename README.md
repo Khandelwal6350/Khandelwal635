@@ -11,7 +11,6 @@
 - 🌱 I’m currently learning **Data Structures & Algorithms in JAVA*
 - 💬 Ask me about **Tech Learning**
 - 📫 How to reach me: **khandelwalkrish840@gmail.com**
-- 📄 Know about my experiences: [**View My Resume**](.............)
 
 ---
 
