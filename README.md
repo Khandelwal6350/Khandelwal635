@@ -1,69 +1,67 @@
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=50FA7B&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+KRISH+KHANDELWAL;Aspiring+Software+Developer;Code+%E2%97%8F+Eat+%E2%97%8F+Sleep+%E2%97%8F+Repeat" alt="Typing SVG" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,50fa7b,00bcd4&height=120&section=header&text=&animation=twinkling" width="100%"/>
-</div>
+<h1 align="center">Hi 👋, I'm KRISH KHANDELWAL </h1>
+<h3 align="center" style="color: #6c5ce7;">A passionate Tech Enthusiast Student from India</h3>
+
 ---
- 
-## 🖥️ `$ whoami`
- 
-```bash
-# 👨‍💻 About Me
-→ 🎯  Name     : Krishna Khandelwal
-→ 🎓  Degree   : BCA Student
-→ 🔭  Working  : OOP & DSA
-→ 🌱  Learning : Java + Data Structures
-→ 💻  Stack    : C, C++, Java, HTML, CSS
-→ 📍  Location : India 🇮🇳
-→ 📧  Email    : khandelwalkrish840@gmail.com
-```
- 
+
+
+<img align="right" alt="Coding" width="200" src="https://media.tenor.com/hia7bVBU48QAAAAi/grok-chatgpt.gif">
+
+### 👨‍💻 About Me:
+- 🔭 I’m currently working on **OOP & DSA core concepts**
+- 🌱 I’m currently learning **Data Structures & Algorithms in JAVA*
+- 💬 Ask me about **Tech Learning**
+- 📫 How to reach me: **khandelwalkrish840@gmail.com**
+
 ---
- 
-## 🛠️ `$ ls ./tech-stack/`
- 
-<div align="center">
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- 
-</div>
+
+<h3 align="left" style="color: #f39c12;">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/krish-khandelwal-130992293/" target="_blank" style="margin-right: 15px;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <span style="color: #0077B5;">LinkedIn</span>
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/khandelwal8pxt/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
+    <span style="color: #008F2E;">GeeksForGeeks</span>
+  </a> 
+</p>
+
 ---
- 
-## 📊 `$ cat github-stats.txt`
- 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khandelwal6350&show_icons=true&theme=dracula&hide_border=true&bg_color=282a36&title_color=50fa7b&text_color=f1fa8c&icon_color=ff79c6" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandelwal6350&layout=compact&theme=dracula&hide_border=true&bg_color=282a36&title_color=50fa7b&text_color=f1fa8c" height="165"/>
-<br/>
-<img src="https://streak-stats.demolab.com?user=Khandelwal6350&theme=dracula&hide_border=true&background=282a36&stroke=ff5555&ring=50fa7b&fire=ff79c6&currStreakLabel=50fa7b" />
-</div>
+
+<h3 align="left" style="color: #e74c3c;">⚙️ Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
+  </a> 
+  <a href="https://cloud.google.com" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40" />
+  </a> 
+<a href="https://www.java.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
+</a>
+
+</p>
+
 ---
- 
-## 🌐 `$ ping social-network`
- 
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krish-khandelwal-130992293/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/krishkhandelwal90/)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/khandelwal8pxt/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khandelwalkrish840@gmail.com)
- 
-</div>
----
- 
-## 👀 `$ wc -l visitors.log`
- 
-<div align="center">
-![Profile Views](https://komarev.com/ghpvc/?username=Khandelwal6350&style=for-the-badge&color=50fa7b&label=PROFILE+VIEWS)
- 
-</div>
----
- 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=6272A4&center=true&vCenter=true&width=300&lines=Made+with+%E2%9D%A4+by+KRISH+KHANDELWAL" alt="Footer"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,50fa7b,00bcd4&height=100&section=footer" width="100%"/>
-</div>
+
+<h3 align="center" style="color: #16a085;">📊 Stats and Activity:</h3>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandelwal6350&show_icons=true&locale=en&layout=compact&theme=radical" alt="Krish's Top Languages" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://streak-stats.demolab.com?user=Khandelwal6350&theme=radical&hide_border=true" alt="Krish's GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Khandelwal6350&show_icons=true&locale=en&theme=radical" alt="Krish's GitHub Stats" />
+</p>
+
+easko bikul bhadiya bana kr do
