@@ -41,21 +41,24 @@
 
   ---
 
-  <!-- 🔹 GitHub Stats (Optimized) -->
+  <!-- 🔹 GitHub Stats (NEW - Midnight Purple Theme) -->
   <h3>📊 GitHub Stats</h3>
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Khandelwal6350&show_icons=true&theme=radical&hide_border=true&bg_color=0,d900ff,6600ff&title_color=fff&text_color=fff&icon_color=fff&cache_seconds=3600"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandelwal6350&layout=compact&theme=radical&hide_border=true&bg_color=0,d900ff,6600ff&title_color=fff&text_color=fff&cache_seconds=3600"/>
-  </p>
-  
-  <p align="center">
-    <img src="https://streak-stats.demolab.com?user=Khandelwal6350&theme=radical&hide_border=true&background=6600ff&stroke=d900ff&ring=fff&fire=fff&currStreakLabel=fff"/>
-  </p>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Khandelwal6350&show_icons=true&hide_border=true&rank_icon=true&theme=midnight-purple" width="420"/>
+  </div>
 
-  <!-- 🔹 GitHub Trophy (Sidebar Flex) -->
+  <div align="center" style="display: flex; gap: 20px; justify-content: center; margin-top: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Khandelwal6350&layout=compact&hide_border=true&theme=midnight-purple" width="300"/>
+  </div>
+
+  <div align="center" style="margin-top: 10px;">
+    <img src="https://streak-stats.demolab.com?user=Khandelwal6350&theme=midnight-purple&hide_border=true&background=0D1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED"/>
+  </div>
+
+  <!-- 🔹 GitHub Trophy -->
   <p align="center">
-     <img src="https://github-trophies.vercel.app/code_rank?username=Khandelwal6350&theme=radical&no-frame=true&no-bg=true&row=1&col=1" width="150" />
+    <img src="https://github-trophies.vercel.app/code_rank?username=Khandelwal6350&theme=radical&no-frame=true&no-bg=true&row=1&col=1" width="150" />
   </p>
 
   ---
