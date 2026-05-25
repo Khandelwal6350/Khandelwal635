@@ -13,10 +13,13 @@
   ---
   
   ### 🔥 About Me
-  - 🔭 Working on **OOP & DSA Core Concepts**
-  - 🌱 Learning **Data Structures & Algorithms in Java**
-  - 💬 Ask me about tech, coding, or learning strategies
-  - 🎓 B Tech Student from India 🇮🇳
+🔭 Working on Python, Java & DSA Concepts
+🌱 Learning Machine Learning, Data Science & AI
+💼 Currently pursuing a Data Science Internship
+💻 Building Real-World Projects using Python & Java
+📊 Skilled in Power BI, MySQL, NumPy, Pandas & Data Visualization
+💬 Ask me about Coding, Java, AI, Data Science & Tech
+🎓 B.Tech CSE (AI) Student from India 🇮🇳
 
   ---
   
