@@ -16,7 +16,7 @@
   - 🔭 Working on **OOP & DSA Core Concepts**
   - 🌱 Learning **Data Structures & Algorithms in Java**
   - 💬 Ask me about tech, coding, or learning strategies
-  - 🎓 BCA Student from India 🇮🇳
+  - 🎓 B Tech Student from India 🇮🇳
 
   ---
   
